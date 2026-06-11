@@ -1,122 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://riess.ae/about/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/automotive-trading/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/contact/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/disclaimer/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/about/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/automotive-trading/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/contact/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/disclaimer/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/general-trading/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/industrial-supplies/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/logistics/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/lowbed-cranes/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/privacy-policy/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/abu-dhabi.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/ajman.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/al-barsha.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/al-garhoud.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/al-karama.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/al-nahda-1.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/al-nahda-2.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/al-quoz.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/al-qusais-industrial.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/al-qusais.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/al-rashidiya.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/al-twar.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/al-warqa.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/bur-dubai.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/business-bay.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/deira.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/dip.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/downtown-dubai.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/dubai-hills.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/dubai-marina.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/dubai-south.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/dubai.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/fujairah.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/jbr.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/jebel-ali.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/jumeirah.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/mirdif.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/motor-city.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/nad-al-hamar.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/palm-jumeirah.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/ras-al-khaimah.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/ras-al-khor.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/sharjah.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/areas/umm-al-quwain.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/recovery/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/refund-policy/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/en/terms-conditions/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/general-trading/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/industrial-supplies/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/logistics/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/lowbed-cranes/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/privacy-policy/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/أبوظبي.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/أم-القيوين.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/أم-سقيم.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/إنترناشيونال-سيتي.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/البرشاء-1.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/البرشاء-2.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/البرشاء-3.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/البرشاء-جنوب.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/البرشاء.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/الخليج-التجاري.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/الخوانيج.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/الراشدية.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/الشارقة.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/الصفوح.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/الطوار.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/العين.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/الفجيرة.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/القرهود.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/القصيص-الصناعية-1.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/القصيص-الصناعية-2.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/القصيص-الصناعية-3.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/القصيص-الصناعية-4.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/القصيص-الصناعية-5.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/القصيص.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/القوز-1.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/القوز-2.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/القوز-3.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/القوز-4.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/القوز.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/الكرامة.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/المحيصنة.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/النهدة-1.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/النهدة-2.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/الورقاء.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/بر-دبي.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/جبل-علي.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/جميرا-1.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/جميرا-2.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/جميرا-3.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/جميرا.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/جي-بي-آر.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/داماك-هيلز.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/دبي-الجنوب.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/دبي-مارينا.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/دبي-هيلز.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/دبي.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/ديرة.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/رأس-الخور.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/رأس-الخيمة.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/عجمان.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/مجمع-دبي-للاستثمار.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/مدينة-دبي-الرياضية.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/مدينة-دبي-للإنتاج.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/مردف.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/موتور-سيتي.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/نخلة-جميرا.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/ند-الحمر.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/واحة-دبي-للسيليكون.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/areas/وسط-مدينة-دبي.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/recovery/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/refund-policy/index.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://riess.ae/terms-conditions/index.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://www.riess.ae/</loc></url>
+<url><loc>https://www.riess.ae/general-trading.html</loc></url>
+<url><loc>https://www.riess.ae/logistics.html</loc></url>
+<url><loc>https://www.riess.ae/vehicle-import-export.html</loc></url>
+<url><loc>https://www.riess.ae/commercial-vehicles.html</loc></url>
+<url><loc>https://www.riess.ae/industrial-products.html</loc></url>
+<url><loc>https://www.riess.ae/food-commodities.html</loc></url>
+<url><loc>https://www.riess.ae/tourism-services.html</loc></url>
+<url><loc>https://www.riess.ae/projects.html</loc></url>
+<url><loc>https://www.riess.ae/contact.html</loc></url>
 </urlset>
